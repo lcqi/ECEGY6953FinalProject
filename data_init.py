@@ -6,7 +6,7 @@ from os.path import join
 import random
 from shutil import copyfile
  
-classes = ["D00",'D10','D20','D40']
+classes = ['D00','D10','D20','D40']
  
 TRAIN_RATIO = 90
  
